@@ -24,8 +24,8 @@ h1{
   transform: translate(-50%,-50%);
 }
 .image{
-  height: 70px;
-  width: 70px;
+  height: 140px;
+  width: 140px;
   background: url("https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.0-9/133507373_395964028343999_7274763509029822252_n.jpg?_nc_cat=111&ccb=3&_nc_sid=09cbfe&_nc_eui2=AeEmkUUJ8ZchjiYQZ8ddomiAa-cM3Ok-cuBr5wzc6T5y4ABCPx7i3JkdjE-Bz-aNjvQsorwFh9F7UGGNf5TfcpkB&_nc_ohc=BOTlrwV1abwAX8V8WA0&_nc_ht=scontent.fmnl17-2.fna&oh=3884b739439dcdb05681b26d132d620f&oe=6064B91E")no-repeat;
   background-size: cover;
   background-position: center;
