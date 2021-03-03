@@ -11,13 +11,20 @@ h1{
   font-size:30px;
   font-weight:bold;
   font-family: Copperplate;
-  -webkit-text-stroke-width: 0.1px;
-  -webkit-text-stroke-color: white;
+  color: white;
 }
 .box2{
   font-size:20px;
   font-weight:bold;
   font-family: Copperplate;
-  -webkit-text-stroke-width: 0.1px;
-  -webkit-text-stroke-color: white;
+  color: white;
+}
+.container{
+  height: 75vh;
+  width: 30%;
+  background: rgba(0,0,0,.6);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
 }
